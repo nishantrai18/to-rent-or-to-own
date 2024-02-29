@@ -3,6 +3,6 @@ matplotlib
 numpy
 numpy_financial
 pandas
-pretty-print
+prettyprint
 pydeck
 streamlit
